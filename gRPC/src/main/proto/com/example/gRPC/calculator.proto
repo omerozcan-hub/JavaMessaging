@@ -1,0 +1,22 @@
+syntax = "proto3";
+
+option java_multiple_files = true;
+option java_package = "com.example.gRPC";
+option java_outer_classname = "CalculatorProto";
+
+// Calculator Servisi
+service Calculator {
+    // İki sayıyı toplayan metod
+    rpc Add (AddRequest) returns (AddResponse);
+}
+
+// İstek: iki sayı gönderilecek
+message AddRequest {
+    int32 num1 = 1;
+    int32 num2 = 2;
+}
+
+// Yanıt: toplam dönecek
+message AddResponse {
+    int32 result = 1;
+}
