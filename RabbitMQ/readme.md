@@ -1,0 +1,1 @@
+### [Kaynak](https://medium.com/@kanbayoguzhan/spring-boot-ve-rabbitmq-ile-event-driven-microservices-14c8c00ecab5)

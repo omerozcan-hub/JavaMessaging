@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Chat App</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/sockjs-client/1.5.0/sockjs.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/stomp.js/2.3.3/stomp.min.js"></script>
+    <script>
+        var stompClient = null;
+        var username = "";
+
+        function connect() {
+            var socket = new SockJS('/chat');
+            stompClient = Stomp.over(socket);
+            stompClient.connect({}, function (frame) {
+                console.log('Connected: ' + frame);
+                stompClient.subscribe('/topic/messages', function (message) {
+                    showMessage(message.body);
+                });
+            });
+        }
+
+        function sendMessage() {
+            var message = document.getElementById('message').value;
+            var fullMessage = username + ": " + message + " (" + new Date().toLocaleTimeString() + ")";
+            stompClient.send("/app/send", {}, fullMessage);
+            document.getElementById('message').value = ""; // Mesaj gönderildikten sonra inputu temizle
+        }
+
+        function showMessage(message) {
+            var chat = document.getElementById('chat');
+            chat.value += message + '\n';
+        }
+
+        function setUsername() {
+            username = document.getElementById('username').value;
+            document.getElementById('usernameForm').style.display = 'none'; // Kullanıcı adı girdikten sonra formu gizle
+            document.getElementById('chatArea').style.display = 'block'; // Chat alanını göster
+            connect();
+        }
+    </script>
+</head>
+<body>
+<div id="usernameForm">
+    <input type="text" id="username" placeholder="Enter your username" />
+    <button onclick="setUsername()">Set Username</button>
+</div>
+<div id="chatArea" style="display: none;">
+    <textarea id="chat" rows="10" cols="30" readonly></textarea><br>
+    <input type="text" id="message" placeholder="Type your message here..." />
+    <button onclick="sendMessage()">Send</button>
+</div>
+</body>
+</html>
