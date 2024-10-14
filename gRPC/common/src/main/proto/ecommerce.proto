@@ -1,0 +1,32 @@
+syntax = "proto3";
+
+package ecommerce;
+
+// Order Servisi için
+service OrderService {
+  rpc PlaceOrder (OrderRequest) returns (OrderResponse);
+}
+
+// Payment Servisi için
+service PaymentService {
+  rpc ProcessPayment (PaymentRequest) returns (PaymentResponse);
+}
+
+message OrderRequest {
+  string product_id = 1;
+  int32 quantity = 2;
+}
+
+message OrderResponse {
+  string order_id = 1;
+  string status = 2;
+}
+
+message PaymentRequest {
+  string order_id = 1;
+  float amount = 2;
+}
+
+message PaymentResponse {
+  string confirmation = 1;
+}
