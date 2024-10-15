@@ -3,13 +3,15 @@ package com.example.GraphQL.resolver;
 import com.example.GraphQL.model.Author;
 import com.example.GraphQL.repository.AuthorRepository;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.graphql.data.method.annotation.Argument;
 import org.springframework.graphql.data.method.annotation.MutationMapping;
 import org.springframework.graphql.data.method.annotation.QueryMapping;
 import org.springframework.stereotype.Component;
+import org.springframework.stereotype.Controller;
 
 import java.util.List;
 
-@Component
+@Controller
 public class AuthorResolver {
 
     @Autowired
@@ -21,13 +23,13 @@ public class AuthorResolver {
     }
 
     @MutationMapping
-    Boolean deleteAuthorById(Long id){
+    Boolean deleteAuthorById(@Argument Long id){
         authorRepository.deleteById(id);
         return true;
     }
 
     @MutationMapping
-    Author addAuthor(String name, int age){
+    Author addAuthor(@Argument String name,@Argument int age){
         Author author = new Author();
         author.setName(name);
         author.setAge(age);
