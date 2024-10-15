@@ -21,4 +21,6 @@ type Query{
 type Mutation {
     addBook(title:String!, publisher:String!, authorId: ID!): Book!
     addAuthor(name:String!, age:Int!): Author!
+    deleteBookById(id:ID!): Boolean!
+    deleteAuthorById(id:ID!): Boolean!
 }
