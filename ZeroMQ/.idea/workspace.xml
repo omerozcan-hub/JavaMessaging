@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c2b2df0e-7122-4322-b82c-ea9636b6b331" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../NotificationService/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NotificationService/src/main/java/org/example/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InventoryService/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/InventoryService/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/InventoryService/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/InventoryService/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/InventoryService/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/InventoryService/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/InventoryService/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InventoryService/src/main/java/com/example/InventoryService/InventoryServiceApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/InventoryService/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/InventoryService/src/test/java/com/example/InventoryService/InventoryServiceApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotificationService/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotificationService/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotificationService/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotificationService/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotificationService/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotificationService/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotificationService/src/main/java/com/example/NotificationService/NotificationServiceApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotificationService/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotificationService/src/test/java/com/example/NotificationService/NotificationServiceApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OrderService/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OrderService/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OrderService/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OrderService/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OrderService/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OrderService/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/OrderService/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OrderService/src/main/java/com/example/OrderService/OrderServiceApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OrderService/src/main/java/org/InventoryService/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OrderService/src/main/java/org/InventoryService/src/main/java/org/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OrderService/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OrderService/src/test/java/com/example/OrderService/OrderServiceApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/src/main/java/org/example/Main.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2pbdg3qrvjXQVVbENWVn35qX04F" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;openjdk-22&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/mrzcn/Desktop/JavaMessaging/ZeroMQ&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-22-openjdk-22-3183f394aec4-bad0321e" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c2b2df0e-7122-4322-b82c-ea9636b6b331" name="Changes" comment="" />
+      <created>1733038816906</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1733038816906</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>

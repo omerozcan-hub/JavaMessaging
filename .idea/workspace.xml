@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="91b35b2a-ac73-4be1-872c-b9111fdfd5d6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/ZeroMQ/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZeroMQ/InventoryService/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZeroMQ/InventoryService/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZeroMQ/InventoryService/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZeroMQ/InventoryService/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZeroMQ/InventoryService/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZeroMQ/InventoryService/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZeroMQ/InventoryService/src/main/java/com/example/InventoryService/InventoryServiceApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZeroMQ/InventoryService/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZeroMQ/InventoryService/src/test/java/com/example/InventoryService/InventoryServiceApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZeroMQ/NotificationService/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZeroMQ/NotificationService/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZeroMQ/NotificationService/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZeroMQ/NotificationService/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZeroMQ/NotificationService/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZeroMQ/NotificationService/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZeroMQ/NotificationService/src/main/java/com/example/NotificationService/NotificationServiceApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZeroMQ/NotificationService/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZeroMQ/NotificationService/src/test/java/com/example/NotificationService/NotificationServiceApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZeroMQ/OrderService/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZeroMQ/OrderService/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZeroMQ/OrderService/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZeroMQ/OrderService/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZeroMQ/OrderService/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZeroMQ/OrderService/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZeroMQ/OrderService/src/main/java/com/example/OrderService/OrderServiceApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZeroMQ/OrderService/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZeroMQ/OrderService/src/test/java/com/example/OrderService/OrderServiceApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZeroMQ/untitled/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZeroMQ/untitled/src/main/java/org/example/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2peqLNbAfV4JILvBjbXXgUKWB37" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/mrzcn/Desktop/JavaMessaging/ZeroMQ"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="91b35b2a-ac73-4be1-872c-b9111fdfd5d6" name="Changes" comment="" />
+      <created>1733136831695</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1733136831695</updated>
+    </task>
+    <servers />
+  </component>
+</project>
