@@ -5,21 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="91b35b2a-ac73-4be1-872c-b9111fdfd5d6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ZeroMQ/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ZeroMQ/InventoryService/src/main/java/org/example/InventoryService.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/ZeroMQ/NotificationService/pom.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/ZeroMQ/NotificationService/src/main/java/org/example/NotificationService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ZeroMQ/OrderService/src/main/java/org/example/OrderService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ZeroMQ/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NotificationService/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NotificationService/src/main/java/org/example/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZeroMQ/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ZeroMQ/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZeroMQ/InventoryService/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ZeroMQ/InventoryService/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZeroMQ/InventoryService/src/main/java/org/example/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZeroMQ/OrderService/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ZeroMQ/OrderService/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZeroMQ/OrderService/src/main/java/org/example/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +34,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/mrzcn/Desktop/JavaMessaging"
+    "last_opened_file_path": "C:/Users/mrzcn/Desktop/JavaMessaging/ApachePulsar"
   }
 }]]></component>
   <component name="RecentsManager">
